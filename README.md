@@ -1,5 +1,8 @@
-Lock-free & Lock-based Linked List implementation. 
+Linked Lists Unlocked
 ==========
+
+Notes:
+* [Shameless self-reference.](http://www.gpiskas.com/pdf/linkedlist_unlocked.pdf)
 
 References:
 * A thorough explanation of the algorithms we will implement:
@@ -15,4 +18,4 @@ Notes:
 * Uses Compare & Swap.
 * Run make in the base dir.
 
-Lock-free & Lock-based Linked List implementation <br> (C) 2015 George Piskas
+Linked Lists Unlocked <br> (C) 2015 George Piskas
