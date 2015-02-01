@@ -2,7 +2,7 @@ Linked Lists Unlocked
 ==========
 
 Notes:
-* [Shameless self-reference.](http://www.gpiskas.com/pdf/linkedlist_unlocked.pdf)
+* [Shameless self-reference.](http://www.gpiskas.com/pdf/linkedlists_unlocked.pdf)
 
 References:
 * A thorough explanation of the algorithms we will implement:
