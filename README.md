@@ -15,4 +15,4 @@ Notes:
 * Uses Compare & Swap.
 * Run make in the base dir.
 
-Lock-free & Lock-based Linked List implementation.  (C) 2015 George Piskas
+Lock-free & Lock-based Linked List implementation <br> (C) 2015 George Piskas
