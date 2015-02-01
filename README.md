@@ -1,9 +1,6 @@
 Linked Lists Unlocked
 ==========
 
-Notes:
-* [Shameless self-reference.](http://www.gpiskas.com/pdf/linkedlists_unlocked.pdf)
-
 References:
 * A thorough explanation of the algorithms we will implement:
 http://www.cs.nyu.edu/courses/fall05/G22.2631-001/lists.slides2.pdf
@@ -12,6 +9,7 @@ http://www.cs.nyu.edu/courses/fall05/G22.2631-001/lists.slides2.pdf
 T. Harris, p. 300-314, DISC 2001.
 
 Notes:
+* [Shameless self-reference.](http://www.gpiskas.com/pdf/linkedlists_unlocked.pdf)
 * The lock-based version uses a ticket lock with backoff.
 * The lock-free version uses a custom memory pool for allocations.
 * Garbage collection is not implemented as maximum performance was goal purpose of this project.
