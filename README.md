@@ -2,10 +2,9 @@ Lock-free & Lock-based Linked List implementation.
 ==========
 
 References:
-A thorough explanation of the algorithms we will implement:
+* A thorough explanation of the algorithms we will implement:
 http://www.cs.nyu.edu/courses/fall05/G22.2631-001/lists.slides2.pdf
-
-Lock-free linkedlist implementation of Harris' algorithm
+* Lock-free linkedlist implementation of Harris' algorithm
 "A Pragmatic Implementation of Non-Blocking Linked Lists"
 T. Harris, p. 300-314, DISC 2001.
 
